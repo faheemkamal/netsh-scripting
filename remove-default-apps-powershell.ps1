@@ -19,3 +19,8 @@ Get-AppxPackage *bingsports* | Remove-AppxPackage
 Get-AppxPackage *soundrecorder* | Remove-AppxPackage
 Get-AppxPackage *bingweather* | Remove-AppxPackage
 Get-AppxPackage *xboxapp* | Remove-AppxPackage
+get-appxpackage *feedback* | remove-appxpackage
+get-appxpackage *messaging* | remove-appxpackage
+get-appxpackage *mspaint* | remove-appxpackage
+get-appxpackage *sticky* | remove-appxpackage
+get-appxpackage *xbox* | remove-appxpackage
